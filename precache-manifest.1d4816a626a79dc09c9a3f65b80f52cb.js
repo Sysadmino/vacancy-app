@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c77847148ceadf843ec6771823c5001b",
+    "revision": "2461c47326302c7f9cdc3cae6c85492f",
     "url": "/vacancy-app/index.html"
   },
   {
-    "revision": "c5da898f70d9635e3517",
+    "revision": "ef9ead34acfaa6314310",
     "url": "/vacancy-app/static/css/main.aabf14a8.chunk.css"
   },
   {
-    "revision": "972e0893eec42b63201b",
-    "url": "/vacancy-app/static/js/2.27cea68f.chunk.js"
+    "revision": "052030cc69829b0e59bf",
+    "url": "/vacancy-app/static/js/2.05a29364.chunk.js"
   },
   {
     "revision": "abc28c365c609ffc9a2e2e165c7e73d8",
-    "url": "/vacancy-app/static/js/2.27cea68f.chunk.js.LICENSE.txt"
+    "url": "/vacancy-app/static/js/2.05a29364.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c5da898f70d9635e3517",
-    "url": "/vacancy-app/static/js/main.712ad3dd.chunk.js"
+    "revision": "ef9ead34acfaa6314310",
+    "url": "/vacancy-app/static/js/main.185679ea.chunk.js"
   },
   {
     "revision": "7cbf9e83dc27e1b25259",
