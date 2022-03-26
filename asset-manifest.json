@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/vacancy-app/static/css/main.aabf14a8.chunk.css",
-    "main.js": "/vacancy-app/static/js/main.185679ea.chunk.js",
-    "main.js.map": "/vacancy-app/static/js/main.185679ea.chunk.js.map",
+    "main.js": "/vacancy-app/static/js/main.8a397b5d.chunk.js",
+    "main.js.map": "/vacancy-app/static/js/main.8a397b5d.chunk.js.map",
     "runtime-main.js": "/vacancy-app/static/js/runtime-main.c4c150de.js",
     "runtime-main.js.map": "/vacancy-app/static/js/runtime-main.c4c150de.js.map",
-    "static/js/2.05a29364.chunk.js": "/vacancy-app/static/js/2.05a29364.chunk.js",
-    "static/js/2.05a29364.chunk.js.map": "/vacancy-app/static/js/2.05a29364.chunk.js.map",
+    "static/js/2.69e6ac31.chunk.js": "/vacancy-app/static/js/2.69e6ac31.chunk.js",
+    "static/js/2.69e6ac31.chunk.js.map": "/vacancy-app/static/js/2.69e6ac31.chunk.js.map",
     "index.html": "/vacancy-app/index.html",
-    "precache-manifest.1d4816a626a79dc09c9a3f65b80f52cb.js": "/vacancy-app/precache-manifest.1d4816a626a79dc09c9a3f65b80f52cb.js",
+    "precache-manifest.d678533901a1020e0aeb60b02b7f8771.js": "/vacancy-app/precache-manifest.d678533901a1020e0aeb60b02b7f8771.js",
     "service-worker.js": "/vacancy-app/service-worker.js",
     "static/css/main.aabf14a8.chunk.css.map": "/vacancy-app/static/css/main.aabf14a8.chunk.css.map",
-    "static/js/2.05a29364.chunk.js.LICENSE.txt": "/vacancy-app/static/js/2.05a29364.chunk.js.LICENSE.txt"
+    "static/js/2.69e6ac31.chunk.js.LICENSE.txt": "/vacancy-app/static/js/2.69e6ac31.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c4c150de.js",
-    "static/js/2.05a29364.chunk.js",
+    "static/js/2.69e6ac31.chunk.js",
     "static/css/main.aabf14a8.chunk.css",
-    "static/js/main.185679ea.chunk.js"
+    "static/js/main.8a397b5d.chunk.js"
   ]
 }
