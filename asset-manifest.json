@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vacancy-app/static/css/main.aabf14a8.chunk.css",
-    "main.js": "/vacancy-app/static/js/main.d05b6268.chunk.js",
-    "main.js.map": "/vacancy-app/static/js/main.d05b6268.chunk.js.map",
+    "main.js": "/vacancy-app/static/js/main.712ad3dd.chunk.js",
+    "main.js.map": "/vacancy-app/static/js/main.712ad3dd.chunk.js.map",
     "runtime-main.js": "/vacancy-app/static/js/runtime-main.c4c150de.js",
     "runtime-main.js.map": "/vacancy-app/static/js/runtime-main.c4c150de.js.map",
     "static/js/2.27cea68f.chunk.js": "/vacancy-app/static/js/2.27cea68f.chunk.js",
     "static/js/2.27cea68f.chunk.js.map": "/vacancy-app/static/js/2.27cea68f.chunk.js.map",
     "index.html": "/vacancy-app/index.html",
-    "precache-manifest.1aa6fc85dc05921011368a0f6f0f8bf0.js": "/vacancy-app/precache-manifest.1aa6fc85dc05921011368a0f6f0f8bf0.js",
+    "precache-manifest.0aedd1d31a4727852e436cfdeffbc594.js": "/vacancy-app/precache-manifest.0aedd1d31a4727852e436cfdeffbc594.js",
     "service-worker.js": "/vacancy-app/service-worker.js",
     "static/css/main.aabf14a8.chunk.css.map": "/vacancy-app/static/css/main.aabf14a8.chunk.css.map",
     "static/js/2.27cea68f.chunk.js.LICENSE.txt": "/vacancy-app/static/js/2.27cea68f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c4c150de.js",
     "static/js/2.27cea68f.chunk.js",
     "static/css/main.aabf14a8.chunk.css",
-    "static/js/main.d05b6268.chunk.js"
+    "static/js/main.712ad3dd.chunk.js"
   ]
 }

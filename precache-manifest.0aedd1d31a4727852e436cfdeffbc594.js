@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe7d3a8baad7bc74ade67287331e72be",
+    "revision": "c77847148ceadf843ec6771823c5001b",
     "url": "/vacancy-app/index.html"
   },
   {
-    "revision": "ea49085ee70d4b080164",
+    "revision": "c5da898f70d9635e3517",
     "url": "/vacancy-app/static/css/main.aabf14a8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vacancy-app/static/js/2.27cea68f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ea49085ee70d4b080164",
-    "url": "/vacancy-app/static/js/main.d05b6268.chunk.js"
+    "revision": "c5da898f70d9635e3517",
+    "url": "/vacancy-app/static/js/main.712ad3dd.chunk.js"
   },
   {
     "revision": "7cbf9e83dc27e1b25259",
